@@ -9,11 +9,11 @@ if a == b:
 else:
     print("Different")
 
-print("Type of a is: ", type(a))
-print("Type of b is: ", type(b))
+print("El tipo de dato de a: ", type(a))
+print("El tipo de dato de b: ", type(b))
 print("c = ", c)
 
 if type(a) == type(b):
-    print("a and b are of the same type")
+    print("a y b son de igual tipo")
 else:
-    print("a and b are of different type")
+    print("a y b son de diferente tipo")
