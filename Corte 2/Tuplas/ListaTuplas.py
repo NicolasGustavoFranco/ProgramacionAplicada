@@ -1,4 +1,3 @@
-
 def generar_tuplas_de_lista(lista):
     
     indice = 0
@@ -8,3 +7,4 @@ def generar_tuplas_de_lista(lista):
         indice = indice + 1
         
 print(generar_tuplas_de_lista([64,68,97]))
+
